@@ -7,4 +7,4 @@
 
 :movie_camera: :studio_microphone: :computer: Making videos about productivity and tech on [YouTube](https://www.youtube.com/@MuhaimenAyyub) <br/>
 
-:snake: :open_book: :keyboard: Currently learning about programming and [building](https://github.com/MuhaimenAyyub/python_mini_projects) mini projects via python. 
+:snake: :open_book: :keyboard: Currently learning about programming and [building](https://github.com/MuhaimenAyyub/python_mini_projects) mini projects via python
