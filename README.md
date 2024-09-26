@@ -8,4 +8,4 @@
 
 :snake: :open_book: :keyboard: Currently learning about programming and [building](https://github.com/MuhaimenAyyub/python_mini_projects) mini projects via python <br/>
 
-:bar_chart: :chart_with_upwards_trend: :man_teacher: Also practicing [data analytics](https://github.com/MuhaimenAyyub/python_data_analytics) using python and building interactive dashboards in Excel.
+:bar_chart: :chart_with_upwards_trend: :man_teacher: Also practicing [data analytics](https://github.com/MuhaimenAyyub/python_data_analytics) using python and building interactive [dashboards](https://pern-my.sharepoint.com/:f:/g/personal/muhaimen_ayyub_uaf_edu_pk/EnVPZH2X22JJtHI36akSEAkB5iYcmCHUCe7G_SOEzVa21A?e=bhnBh8) in Excel.
