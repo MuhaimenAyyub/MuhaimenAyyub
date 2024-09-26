@@ -1,5 +1,4 @@
-
-### Hi, I'm Muhaimen!
+# Hi there, I'm Muhaimen! :wave:
 
 :seedling: :ear_of_rice: :test_tube: Soil Scientist sharing about my journey and learnings in tech <br/>
 
