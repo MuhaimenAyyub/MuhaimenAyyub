@@ -6,4 +6,6 @@
 
 :movie_camera: :studio_microphone: :computer: Making videos about productivity and tech on [YouTube](https://www.youtube.com/@MuhaimenAyyub) <br/>
 
-:snake: :open_book: :keyboard: Currently learning about programming and [building](https://github.com/MuhaimenAyyub/python_mini_projects) mini projects via python
+:snake: :open_book: :keyboard: Currently learning about programming and [building](https://github.com/MuhaimenAyyub/python_mini_projects) mini projects via python <br/>
+
+:bar_chart: :chart_with_upwards_trend: :man_teacher: Also practicing [data analytics](https://github.com/MuhaimenAyyub/python_data_analytics) using python and building interactive dashboards in Excel.
